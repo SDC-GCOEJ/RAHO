@@ -1,2 +1,2 @@
 # RAHO
-Travel Planner android application 
+Travel Planner android application with AI
